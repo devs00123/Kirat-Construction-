@@ -181,7 +181,7 @@ body.theme-dark .theme-icon-moon {
   height: 2.25rem;
   border-radius: 999px;
   border: 1px solid rgba(0, 0, 0, 0.12);
-  background: #ffffff;
+  background: #ff742d;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -1091,5 +1091,6 @@ body.theme-dark .project-meta {
     padding: 1.2rem 1.1rem;
   }
 }
+
 
 
