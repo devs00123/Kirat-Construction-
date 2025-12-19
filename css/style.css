@@ -333,7 +333,7 @@ body.theme-dark .theme-icon-moon {
 .hero-image-card img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+ /* object-fit: cover;*/
   transform: scale(1.04);
 }
 
@@ -903,5 +903,6 @@ body.theme-dark .project-meta {
     padding: 1.2rem 1.1rem;
   }
 }
+
 
 
